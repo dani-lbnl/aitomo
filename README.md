@@ -1,5 +1,5 @@
-AItomo
-======
+Real-time visualization and analysis
+====================================
 [Integrating acquisition and AI in tomography](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html) - Lorentz Center, Leiden
 
 -	[Teams work](https://docs.google.com/presentation/d/1LfaxwtUl8PmGBb1NCWAV3gvMKcboseA6bB7K2o_UJ_E/edit#slide=id.p)
@@ -13,14 +13,14 @@ AItomo
      <p>
     Aim: Enabling using deep learning at facilities to produce real-time visualization and analysis during experiments
 Potential outcomes:
-A document giving an overview of existing infrastructures, software, requirements, and interfaces. This information can be made publicly available as a resource website.
-Understanding what is needed to enable real-time deep-learning processing at a facility.
-A document describing plans for realizing implementations of real-time visualization and analysis, including a list of interested participants. These plans will facilitate future collaborations and could lead to several novel methods and scientific publications.     
+A document describing current and future strategies for realizing implementations of real-time visualization and analysis, including tools for annotation which are fundamental for enabling deep learning as even unsupervised methods require annotation to provide evidences that they are optimized to the purpose they are designed for. The expectaction is that these plans will facilitate future collaborations and could lead to several novel methods and scientific publications.     
       </td>
  </tr>
 </table>
 
-# Key steps for real-time visualization and data analysis:
+
+
+# Toward real-time visualization and data analysis:
 - [01_getstarted](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/01_getstarted.ipynb)
 - [02_stackoverview](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/02_stackoverview.ipynb)
 - [03_voxeldistribution](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/03_voxeldistribution.ipynb)
