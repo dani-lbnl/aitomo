@@ -1,19 +1,21 @@
 AItomo
 ======
-[Integrating acquisition and AI in tomography](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html<img width="328" alt="workshop" src="https://github.com/dani-lbnl/aitomo/assets/8379306/dfc20ca2-623c-4945-b622-c80d3103b354">
-) - Lorentz Center, Leiden
+[Integrating acquisition and AI in tomography](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html) - Lorentz Center, Leiden
 
--	[Teams work]([https://sc20.supercomputing.org/attend/schedule/](https://docs.google.com/presentation/d/1LfaxwtUl8PmGBb1NCWAV3gvMKcboseA6bB7K2o_UJ_E/edit#slide=id.p))
+-	[Teams work](https://docs.google.com/presentation/d/1LfaxwtUl8PmGBb1NCWAV3gvMKcboseA6bB7K2o_UJ_E/edit#slide=id.p)
 
 
 <table border="0">
  <tr>
-    <td><img src="https://www.lorentzcenter.nl/uploadedfiles/evenementImages/integrating-acquisition-and-ai-in-tomography-poster-pic.jpg?x=1216667808" width="300">
+    <td><img src="https://github.com/dani-lbnl/aitomo/assets/8379306/dfc20ca2-623c-4945-b622-c80d3103b354" width="600">
     </td>
     <td>
-     
-     <p> some other text
-     
+     <p>
+    Aim: Enabling using deep learning at facilities to produce real-time visualization and analysis during experiments
+Potential outcomes:
+A document giving an overview of existing infrastructures, software, requirements, and interfaces. This information can be made publicly available as a resource website.
+Understanding what is needed to enable real-time deep-learning processing at a facility.
+A document describing plans for realizing implementations of real-time visualization and analysis, including a list of interested participants. These plans will facilitate future collaborations and could lead to several novel methods and scientific publications.     
       </td>
  </tr>
 </table>
@@ -29,16 +31,23 @@ AItomo
  
 
 # Other resources
+- Explore Code Samples [code](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/code)
+- 3D Data Specimens:  
+        - [Fibers](https://drive.google.com/drive/folders/1OdE9ybilhz3Yt57hjE1fGO8CvruNd4Z3)
+        - [Beads](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/data)
+- Python Cluster Configuration: 
+        - [Coiled.io Cloud](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/coiled)
+        - [NERSC](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/nersc)
 
-      - Ushizima, McCormick, Parkinson <i> Accelerating Microstructural Analytics with Dask for Volumetric X-ray Images </i> <a href="https://github.com/dani-lbnl/SC20_pyHPC/blob/master/SC20_pyHPC_dask4volumes.pdf">[preprint]</a> <p>
-      - Explore Code Samples <a href="https://github.com/dani-lbnl/SC20_pyHPC/tree/master/code">[code]</a> <p>
-      - Attention: conda install -c conda-forge jupyterlab=2.0 <p>
-      - 3D Data Specimens: <p>  
-        <li> <a href="https://drive.google.com/drive/folders/1OdE9ybilhz3Yt57hjE1fGO8CvruNd4Z3">[Fibers]</a>
-        <li> <a href="https://github.com/dani-lbnl/SC20_pyHPC/tree/master/data">[Beads]</a> <p>
-      - Python Cluster Configuration: <p>
-        <li> <a
-        href="https://github.com/dani-lbnl/SC20_pyHPC/tree/master/nersc">[NERSC MPI]</a>
-        <li> <a href="https://github.com/dani-lbnl/SC20_pyHPC/tree/master/coiled">[Coiled.io Cloud]</a>
- 
+ <div class="row">
+      <pre class="col-md-offset-2 col-md-8">
+@InProceedings{SC:2020,
+author = {Daniela Ushizima and Matthew McCormick and Dilworth Parkinson},
+title = {Accelerating Microstructural Analytics with Dask for Volumetric X-ray Images},
+booktitle = {2020 IEEE/ACM 9th Workshop on Python for High-Performance and Scientific Computing (PyHPC) at Super Computing},
+month = {Nov},
+year = {2020},
+pages = {41-48},
+}      </pre>
+    </div>
 
