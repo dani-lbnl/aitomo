@@ -40,16 +40,44 @@ These are links to Jupyter Notebooks used as part of tutorial delivered at LBNL 
 - Python Cluster Configuration: 
         - [Coiled.io Cloud](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/coiled)
         - [NERSC](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/nersc)
+## Refs
+<div class="row">
+      <pre class="col-md-offset-2 col-md-8">
 
- <div class="row">
+@article{Battery:NPJ:2023,
+	author = {Huang, Ying and Perlmutter, David and Su, Andrea and Quenum, Jerome and Zenyuk, Iryna and Ushizima, Daniela},
+	isbn = {2057-3960},
+	journal = {Nature Computational Materials},
+	title = {Detecting Lithium Plating Dynamics in a Solid-State Battery with Operando X-ray Computed Tomography using Machine Learning (accepted)},
+	year = {2023},
+ }      </pre>
+    </div>
+
+<div class="row">
+      <pre class="col-md-offset-2 col-md-8">
+
+@article{Pinto:2022,
+author = {Allan Pinto, Gabriel Borin, Bruno Carlos, Matheus L. Bernardi, Matheus F. Sarmento, Alan Z. Peixinho, Thiago V. Spina and Eduardo X. Miqueles},
+title = {Annotat3D: A Modern Web Application for Interactive Segmentation of Volumetric Images at Sirius/LNLS},
+journal = {Synchrotron Radiation News},
+volume = {35},
+number = {4},
+pages = {36-43},
+year = {2022},
+publisher = {Taylor & Francis},
+doi = {10.1080/08940886.2022.2112501},
+}
+ }      </pre>
+    </div>
+ 
+<div class="row">
       <pre class="col-md-offset-2 col-md-8">
 @InProceedings{SC:2020,
 author = {Daniela Ushizima and Matthew McCormick and Dilworth Parkinson},
 title = {Accelerating Microstructural Analytics with Dask for Volumetric X-ray Images},
-booktitle = {2020 IEEE/ACM 9th Workshop on Python for High-Performance and Scientific Computing (PyHPC) at Super Computing},
+booktitle = {2020 IEEE/ACM Wrkshp on Python for High-Performance and Scientific Computing (PyHPC) at Super Computing},
 month = {Nov},
 year = {2020},
 pages = {41-48},
 }      </pre>
     </div>
-
