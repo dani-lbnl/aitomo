@@ -1,8 +1,8 @@
 Real-time visualization and analysis
 ====================================
-[Integrating acquisition and AI in tomography](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html) - Lorentz Center, Leiden
+- Event: [Integrating acquisition and AI in tomography](https://www.lorentzcenter.nl/integrating-acquisition-and-ai-in-tomography.html) at Lorentz Center, Leiden, NE
 
--	[Teams work](https://docs.google.com/presentation/d/1LfaxwtUl8PmGBb1NCWAV3gvMKcboseA6bB7K2o_UJ_E/edit#slide=id.p)
+-	Presentation: [Team's PDF](https://github.com/dani-lbnl/aitomo/blob/main/LorentzPresentation2023.pdf)
 
 
 <table border="0">
@@ -20,7 +20,8 @@ A document describing current and future strategies for realizing implementation
 
 
 
-# Toward real-time visualization and data analysis:
+# Toward Real-time Visualization and Data Analysis
+These are links to Jupyter Notebooks used as part of tutorial delivered at LBNL ALS User Meeting:
 - [01_getstarted](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/01_getstarted.ipynb)
 - [02_stackoverview](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/02_stackoverview.ipynb)
 - [03_voxeldistribution](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/03_voxeldistribution.ipynb)
@@ -28,13 +29,14 @@ A document describing current and future strategies for realizing implementation
 - [05_multiscale](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/05_multiscale.ipynb)
 - [06_tridimvis](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/06_tridimvis.ipynb)
  
- 
+# Naturalis triceratops
+- [Download STL to print your triceratops](https://www.naturalis.nl/uploads/manual/Printbestanden_en_Cura-profiel.zip)
 
 # Other resources
-- Explore Code Samples [code](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/code)
 - 3D Data Specimens:  
         - [Fibers](https://drive.google.com/drive/folders/1OdE9ybilhz3Yt57hjE1fGO8CvruNd4Z3)
         - [Beads](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/data)
+- Explore HPC-aware viz [code](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/code)
 - Python Cluster Configuration: 
         - [Coiled.io Cloud](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/coiled)
         - [NERSC](https://github.com/dani-lbnl/SC20_pyHPC/tree/master/nersc)
