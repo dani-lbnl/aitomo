@@ -30,7 +30,7 @@ These are links to Jupyter Notebooks used as part of tutorial delivered at LBNL 
 - [06_tridimvis](https://github.com/dani-lbnl/2022_als_user_meeting/blob/main/notebooks_colab/06_tridimvis.ipynb)
  
 # Naturalis triceratops
-- [Download STL to print your triceratops](https://www.naturalis.nl/uploads/manual/Printbestanden_en_Cura-profiel.zip)
+- Download [STL](https://www.naturalis.nl/uploads/manual/Printbestanden_en_Cura-profiel.zip) to print your triceratops or visualize using [itkwidgets](https://www.kitware.com/accelerating-volumetric-x-ray-microstructural-analytics-with-dask-itk-from-supercomputers-to-the-cloud/)
 
 # Other resources
 - 3D Data Specimens:  
